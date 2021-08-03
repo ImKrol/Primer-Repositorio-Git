@@ -1,4 +1,5 @@
 
 function saludo(){
-    alert("Hola Joaquin")
+    alert("Hola Joaquin");
 }
+
